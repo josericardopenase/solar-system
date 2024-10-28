@@ -5,6 +5,13 @@ Este proyecto simula un sistema planetario en un entorno 3D usando *Three.js*, e
 
 ---
 
+<img width="1512" alt="Captura de pantalla 2024-10-28 a las 10 45 15" src="https://github.com/user-attachments/assets/914caa90-5d14-4ac7-9aad-92ed43af0375">
+<img width="1512" alt="Captura de pantalla 2024-10-28 a las 10 45 30" src="https://github.com/user-attachments/assets/eec01bed-93d3-417e-b493-a94d52fcdd47">
+<img width="1512" alt="Captura de pantalla 2024-10-28 a las 10 45 55" src="https://github.com/user-attachments/assets/b06de4b2-bd4b-454f-ad38-2a8ced7cb526">
+
+
+
+
 ### Objetivos:
 - Recrear el Sistema Solar a escala con simulación de movimiento orbital y rotación de los planetas.
 - Aplicar texturas y materiales realistas mediante *MeshPhongMaterial*.
