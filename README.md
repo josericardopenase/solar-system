@@ -1,5 +1,11 @@
 # Sistema Planetario - Documentación Técnica y Comentarios
 
+
+
+https://github.com/user-attachments/assets/5fc4d112-a4c0-4fbd-8a1d-fc35628032ff
+
+
+
 ### Descripción:
 Este proyecto simula un sistema planetario en un entorno 3D usando *Three.js*, en el cual se pueden observar los planetas orbitando alrededor del Sol, una nave espacial controlable, y una interfaz que permite alternar entre diferentes vistas. La estructura del proyecto sigue principios de programación orientada a objetos (POO) y está diseñada de manera modular, facilitando la extensibilidad y organización del código.
 
