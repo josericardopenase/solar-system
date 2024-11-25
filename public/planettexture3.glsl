@@ -41,7 +41,7 @@ void main() {
     st *= 50.0; // Scale the coordinate system by 10
     vec2 ipos = floor(st);  // get the integer coords
     vec2 fpos = fract(st);  // get the fractional coords
-    vec3 color2 = vec3(random( ipos ));
+    vec3 color2 = vec3(random( ipos ) ) ;
     vec4 color = texture2D(u_texture, vUv);
     gl_FragColor = mix(color, vec4(color2, 0.2), -0.5);
 }
